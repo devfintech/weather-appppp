@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/devfintech.github.io/weather-app/static/css/main.6c768156.css",
+    "main.js": "/devfintech.github.io/weather-app/static/js/main.07ff92f1.js",
+    "static/js/787.1705acdb.chunk.js": "/devfintech.github.io/weather-app/static/js/787.1705acdb.chunk.js",
+    "static/media/cloud.png": "/devfintech.github.io/weather-app/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/devfintech.github.io/weather-app/index.html",
+    "main.6c768156.css.map": "/devfintech.github.io/weather-app/static/css/main.6c768156.css.map",
+    "main.07ff92f1.js.map": "/devfintech.github.io/weather-app/static/js/main.07ff92f1.js.map",
+    "787.1705acdb.chunk.js.map": "/devfintech.github.io/weather-app/static/js/787.1705acdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c768156.css",
+    "static/js/main.07ff92f1.js"
+  ]
+}
